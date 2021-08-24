@@ -9,7 +9,7 @@ Nautoscan is an automation nuclei scanner. It's only for NotSoSecretSec and ever
 ## Installation
 
 ```1. First step
-- Clone `https://github.com/MikeWent/notify-send-telegram.git`
+- git clone `https://github.com/MikeWent/notify-send-telegram.git`
 - cd notify-send-telegram
 - pip3 install -r requirements.txt
 - ./notify-send-telegram.py -t [Nautoscan_bot_token] -r [Your_user_id] 'HAIII'
