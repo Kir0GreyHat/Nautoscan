@@ -29,7 +29,7 @@ You will get 'HAIII' message from Nautoscan bot. Token and user id will be saved
 - cd Nautoscan
 - ./nautoscan.sh
 
-## Keep in mind that you don't need to rerun from the step 1 as the tool already installed.
+## Keep in mind that you don't need to rerun from step 1 as the tool is already installed.
 
 ## Examples
 
