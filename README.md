@@ -1,4 +1,4 @@
-# Nautoscan
+# Nautoscan 🤖💉
 Nautoscan is an automation nuclei scanner. It's only for NotSoSecretSec and everyone are prohibited to change the content of the files except with the permission.
 
 ## Requirements
@@ -35,7 +35,7 @@ Get your_user_id: [@get_id_bot](https://t.me/get_id_bot)
 
 ## About
 
-Credit to [@MikeWent](https://github.com/MikeWent/notify-send-telegram)
-Credit to [@InfosecDaily](https://www.youtube.com/channel/UCanyJdu7tbWxxwirWQhKwjQ)
-Made with 💚 by [@Kir0GreyHat](https://github.com/Kir0GreyHat)
+- Credit to [@MikeWent](https://github.com/MikeWent/notify-send-telegram)
+- Credit to [@InfosecDaily](https://www.youtube.com/channel/UCanyJdu7tbWxxwirWQhKwjQ)
+- Made with 💚 by [@Kir0GreyHat](https://github.com/Kir0GreyHat)
 
