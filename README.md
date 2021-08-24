@@ -4,6 +4,7 @@ Nautoscan is an automation nuclei scanner. It's only for NotSoSecretSec and ever
 ## Requirements
 - `https://github.com/MikeWent/notify-send-telegram` - To notify the activities
 - `https://github.com/projectdiscovery/nuclei` - Nuclei
+- `https://github.com/projectdiscovery/subfinder` - To find the subdomains
 
 ## Installation
 
@@ -22,4 +23,19 @@ Get your_user_id: [@get_id_bot](https://t.me/get_id_bot)
 - Credit to [@MikeWent](https://github.com/MikeWent/notify-send-telegram)
 
 2. Second step
-- Git clone 
+- Git clone `https://github.com/Kir0GreyHat/Nautoscan` 
+- cd Nautoscan
+- ./nautoscan.sh
+
+## Examples
+
+- ./nautoscan.sh
+- enter your target and separated each one by space
+- You will get notify by Nauto bot in Telegram
+
+## About
+
+Credit to [@MikeWent](https://github.com/MikeWent/notify-send-telegram)
+Credit to [@InfosecDaily](https://www.youtube.com/channel/UCanyJdu7tbWxxwirWQhKwjQ)
+Made with 💚 by [@Kir0GreyHat](https://github.com/Kir0GreyHat)
+
