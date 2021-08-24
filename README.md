@@ -23,7 +23,7 @@ Get your_user_id: [@get_id_bot](https://t.me/get_id_bot)
 - Credit to [@MikeWent](https://github.com/MikeWent/notify-send-telegram)
 
 2. Second step
-- Git clone `https://github.com/Kir0GreyHat/Nautoscan` 
+- Git clone `https://github.com/Kir0GreyHat/Nautoscan.git` 
 - cd Nautoscan
 - ./nautoscan.sh
 
