@@ -25,7 +25,8 @@ Nautoscan is an automation nuclei scanner. It's only for NotSoSecretSec and ever
 2. Second step
 - Git clone `https://github.com/Kir0GreyHat/Nautoscan.git` 
 - cd Nautoscan
-- ./nautoscan.sh```
+- ./nautoscan.sh
+```
 
 ## Examples
 
