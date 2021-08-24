@@ -5,6 +5,7 @@ Nautoscan is an automation nuclei scanner. It's only for NotSoSecretSec and ever
 - `https://github.com/MikeWent/notify-send-telegram` - To notify the activities
 - `https://github.com/projectdiscovery/nuclei` - Nuclei
 - `https://github.com/projectdiscovery/subfinder` - To find the subdomains
+- `https://github.com/projectdiscovery/httpx` - Probers
 
 ## Installation
 
