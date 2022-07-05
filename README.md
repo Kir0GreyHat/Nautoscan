@@ -1,5 +1,5 @@
 # Nautoscan 🤖💉
-Nautoscan is an automation nuclei scanner. It's only for NotSoSecretSec and everyone are prohibited to change the content of the files except with the permission.
+Nautoscan is an automation nuclei scanner. Everyone are prohibited to change the content of the files except with the permission.
 
 ## Requirements
 - `https://github.com/MikeWent/notify-send-telegram` - To notify the activities
