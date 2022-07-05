@@ -41,5 +41,5 @@ You will get 'HAIII' message from Nautoscan bot. Token and user id will be saved
 
 - Credit to [@MikeWent](https://github.com/MikeWent/notify-send-telegram)
 - Credit to [@InfosecDaily](https://www.youtube.com/channel/UCanyJdu7tbWxxwirWQhKwjQ)
-- Made with 💚 by [@Kir0GreyHat](https://github.com/Kir0GreyHat)
+- Made with 💚 by [@Kir0Sploit](https://github.com/Kir0Sploit)
 
